@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShaabanElnhas/Travel-List/static/css/main.f524c701.css",
+    "main.js": "/ShaabanElnhas/Travel-List/static/js/main.a1e36a98.js",
+    "index.html": "/ShaabanElnhas/Travel-List/index.html",
+    "main.f524c701.css.map": "/ShaabanElnhas/Travel-List/static/css/main.f524c701.css.map",
+    "main.a1e36a98.js.map": "/ShaabanElnhas/Travel-List/static/js/main.a1e36a98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f524c701.css",
+    "static/js/main.a1e36a98.js"
+  ]
+}
