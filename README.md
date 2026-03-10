@@ -1,8 +1,17 @@
-# ✈️ Far Away - Packing List App
+# ✈️ Far Away – Travel Packing List
 
-A simple packing list application built with React to help users organize items for their trips.
+A simple and interactive packing list application built with **React** to help users organize items for their trips.
 
-## Features
+## 📸 Project Preview
+
+![Travel List App](./preview.png)
+
+## 🌐 Live Demo
+You can view the project here:
+
+👉 https://shaabanelnhas.github.io/Travel-List/
+
+## 🚀 Features
 - Add items with quantity
 - Mark items as packed
 - Remove items from the list
@@ -10,7 +19,7 @@ A simple packing list application built with React to help users organize items 
 - Clear the entire list
 - Packing progress statistics
 
-## Built With
+## 🛠️ Built With
 - React
-- JavaScript (ES6)
+- JavaScript (ES6+)
 - CSS
